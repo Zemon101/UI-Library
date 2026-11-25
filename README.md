@@ -121,7 +121,7 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 # [Obsidian](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/Obsidan/Obsidan%20-%20Example.lua)
 
-![image](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/Obsidan/Obsidian.png?raw=true)
+![image](./Libraries/Obsidan/Obsidian.png)
 
 # [PRIV9](https://raw.githubusercontent.com/EX4HUB/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
 
