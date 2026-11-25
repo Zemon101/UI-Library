@@ -3,7 +3,7 @@
 
 # [Fluent UI](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/FluentUI/FluentUI-Example.lua)
 
-![image](./Libraries/Obsidan/Fluent-UI.png)
+![image](./Libraries/FluentUI/Fluent-UI.png)
 
 # [Fluent UI Custom](https://github.com/EX4HUB/UI-Library/tree/main/Libraries/FluentUICustom)
 
@@ -238,3 +238,7 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 # [Cerberus Lib](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/Cerberus%20Lib/Cerberus%20Lib%20Example.lua)
 ![image](https://user-images.githubusercontent.com/83477843/211185441-378b9b20-a680-4e8b-9889-8f982dc68f00.png)
+
+# [NEVERLOSE-CS2](https://github.com/Zemon101/UI-Library/blob/main/Libraries/NEVERLOSE-CS2/README.md)
+
+![image](./Libraries/NEVERLOSE-CS2/IMG_20260401_010851-UI.png)
