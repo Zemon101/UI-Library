@@ -241,4 +241,4 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 # [NEVERLOSE-CS2](https://github.com/Zemon101/UI-Library/blob/main/Libraries/NEVERLOSE-CS2/README.md)
 
-![image](./Libraries/NEVERLOSE-CS2/IMG_20260401_010851-UI.jpg)
+![image](./Libraries/NEVERLOSE-CS2/IMG_20260401_010851.jpg)
