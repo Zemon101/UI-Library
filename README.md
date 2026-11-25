@@ -3,7 +3,7 @@
 
 # [Fluent UI](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/FluentUI/FluentUI-Example.lua)
 
-![image](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/FluentUI/Fluent-UI.png?raw=true)
+![image](./Libraries/Obsidan/Fluent-UI.png)
 
 # [Fluent UI Custom](https://github.com/EX4HUB/UI-Library/tree/main/Libraries/FluentUICustom)
 
