@@ -177,7 +177,7 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 <img width="3434" height="1432" alt="image" src="https://github.com/EX4HUB/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
 
-# [Mentality](https://github.com/sametexe001/sametlibs/blob/main/Mentality/Example.lua)
+# [Mentality](https://github.com/Zemon101/UI-Library/blob/main/Libraries/Mentality/Mentality%20-%20Example.lua)
 
 <img width="1365" height="782" alt="resim" src="https://github.com/user-attachments/assets/37af0c29-7f6d-43b0-b509-f98531f94d96" />
 <img width="364" height="605" alt="resim" src="https://github.com/user-attachments/assets/ddf62c2b-75b9-4837-9861-273e56ffd2fd" />
